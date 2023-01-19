@@ -1,7 +1,5 @@
 # 2022  WHU IH course project 
-
 > An implement based Python 3.7+ about [RDH in Color Image With Grayscale Invariance](http://home.ustc.edu.cn/~houdd/PDF/Reversible%20Data%20Hiding%20in%20Color%20Image%20with%20Grayscale%20Invariance.pdf) by *Dongdong Hou , Weiming Zhang , Kejiang Chen, Sian-Jheng Lin, and Nenghai Yu*
-
 ## Folder description :
 
 "result_images":  			   文件夹中是产生的结果图片
@@ -25,7 +23,6 @@
 - 首先安装所依赖的库`python3 install -r requirements.txt`
 - 其次执行`start.py/start_advance.py`对图像进行加密解密
 - 下面是执行时控制台样例输出
-
 ```python
 => Finish reading image!
 => Finish calculating predication error!
@@ -40,18 +37,14 @@
 => Finish extracting received msg: 314159265659314159265659
 => The msg is equal to received msg: True
 ```
-
 - 程序会生成并保存灰度对比图`Grayscale.png`
-  ![Grayscale](Grayscale.png)
+![Grayscale](Grayscale.png)
 - 下面是程序加密前后的图片对比，可以看到人眼是很难看出来变化
-
 <figure class="half">
     <img src="test_images/LenaRGB.bmp" width="300">
     <img src="result_images/LenaRGB.modified9.BMP" width="300"/>
 </figure>
-
 ### Report
-
 ![img](img/幻灯片3.png)
 
 ![img](img/幻灯片4.png)
@@ -95,7 +88,6 @@
 
 
 ### Others
-
 > Motivation: This is the final project of class **Information  Hiding**
 >
 > Stars Wanted: If it can run on your machine, please **star** this project!
