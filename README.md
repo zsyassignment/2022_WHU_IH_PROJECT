@@ -44,7 +44,7 @@
     <img src="test_images/LenaRGB.bmp" width="300">
     <img src="result_images/LenaRGB.modified9.bmp" width="300"/>
 </figure>
-### Report
+### PPT
 
 ![img](img/幻灯片4.png)
 
