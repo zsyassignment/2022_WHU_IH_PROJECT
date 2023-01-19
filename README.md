@@ -42,10 +42,9 @@
 - 下面是程序加密前后的图片对比，可以看到人眼是很难看出来变化
 <figure class="half">
     <img src="test_images/LenaRGB.bmp" width="300">
-    <img src="result_images/LenaRGB.modified9.BMP" width="300"/>
+    <img src="result_images/LenaRGB.modified9.bmp" width="300"/>
 </figure>
 ### Report
-![img](img/幻灯片3.png)
 
 ![img](img/幻灯片4.png)
 
